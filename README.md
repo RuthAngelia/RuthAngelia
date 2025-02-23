@@ -13,7 +13,6 @@ I'm a **web developer** and **programmer** currently learning **HTML, CSS, JavaS
 
 ## 🌱 Fun Facts
 - 🎵 I enjoy listening to music while coding!  
-- 🎨 Love designing UI with the **coquette color palette**.  
 
 🔗 **Let's Connect!**
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=google-chrome)](https://ruthangelia.github.io/My-Portofolio/))  

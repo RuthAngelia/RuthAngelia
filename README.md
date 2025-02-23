@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 Hey there, I'm Ruth Angelia! 👋  
 
-<!--
-**RuthAngelia/RuthAngelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **web developer** and **programmer** currently learning **HTML, CSS, JavaScript, Figma, Scratch, and Flutter**. My goal is to build a **website with a database** and improve my coding skills every day! 🚀  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 💻 **Languages**: HTML, CSS, JavaScript, Python  
+- 🎨 **Design Tools**: Figma (learning)
+- 📱 **Frameworks**: Flutter (learning)  
+- 🛠️ **Other Tools**: Microsoft Office  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+🌐 **[OnePage-SearchYahooClone]([https://ruthangelia.github.io/SearchYahoo-Clone/))** - A cloning web.   
+
+## 🌱 Fun Facts
+- 🎵 I enjoy listening to music while coding!  
+- 🎨 Love designing UI with the **coquette color palette**.  
+
+🔗 **Let's Connect!**
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=google-chrome)](https://ruthangelia.github.io/My-Portofolio/))  
+
+---
